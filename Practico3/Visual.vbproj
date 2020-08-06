@@ -168,6 +168,15 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Contrata\FrmAltaContrata.resx">
+      <DependentUpon>FrmAltaContrata.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contrata\FrmBajaContrata.resx">
+      <DependentUpon>FrmBajaContrata.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contrata\FrmListarContrata.resx">
+      <DependentUpon>FrmListarContrata.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmMenu.resx">
       <DependentUpon>FrmMenu.vb</DependentUpon>
     </EmbeddedResource>
@@ -191,6 +200,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Persona\FrmModificarPersona.resx">
       <DependentUpon>FrmModificarPersona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicio\FrmAltaServicio.resx">
+      <DependentUpon>FrmAltaServicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicio\FrmListarServicio.resx">
+      <DependentUpon>FrmListarServicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicio\FrmModificarServicio.resx">
+      <DependentUpon>FrmModificarServicio.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

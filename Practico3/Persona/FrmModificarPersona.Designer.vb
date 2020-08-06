@@ -33,6 +33,7 @@ Partial Class FrmModificarPersona
         Me.BtnModificar = New System.Windows.Forms.Button()
         Me.LblId = New System.Windows.Forms.Label()
         Me.TbxId = New System.Windows.Forms.TextBox()
+        Me.BtnBuscar = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'LblNombre
@@ -101,7 +102,7 @@ Partial Class FrmModificarPersona
         '
         'BtnModificar
         '
-        Me.BtnModificar.Location = New System.Drawing.Point(81, 284)
+        Me.BtnModificar.Location = New System.Drawing.Point(121, 278)
         Me.BtnModificar.Name = "BtnModificar"
         Me.BtnModificar.Size = New System.Drawing.Size(75, 23)
         Me.BtnModificar.TabIndex = 8
@@ -119,17 +120,26 @@ Partial Class FrmModificarPersona
         '
         'TbxId
         '
-        Me.TbxId.Enabled = False
         Me.TbxId.Location = New System.Drawing.Point(98, 33)
         Me.TbxId.Name = "TbxId"
         Me.TbxId.Size = New System.Drawing.Size(100, 20)
         Me.TbxId.TabIndex = 10
+        '
+        'BtnBuscar
+        '
+        Me.BtnBuscar.Location = New System.Drawing.Point(40, 278)
+        Me.BtnBuscar.Name = "BtnBuscar"
+        Me.BtnBuscar.Size = New System.Drawing.Size(75, 23)
+        Me.BtnBuscar.TabIndex = 11
+        Me.BtnBuscar.Text = "Buscar"
+        Me.BtnBuscar.UseVisualStyleBackColor = True
         '
         'FrmModificarPersona
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(255, 334)
+        Me.Controls.Add(Me.BtnBuscar)
         Me.Controls.Add(Me.TbxId)
         Me.Controls.Add(Me.LblId)
         Me.Controls.Add(Me.BtnModificar)
@@ -159,4 +169,5 @@ Partial Class FrmModificarPersona
     Friend WithEvents BtnModificar As Button
     Friend WithEvents LblId As Label
     Friend WithEvents TbxId As TextBox
+    Friend WithEvents BtnBuscar As Button
 End Class
