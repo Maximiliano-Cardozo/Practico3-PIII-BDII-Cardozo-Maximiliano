@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1169
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Visual", "Visual.vbproj", "{2BC4E2A2-7EC6-4270-92C9-7393B9B03C78}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AccesoADatos", "AccesoADatos\AccesoADatos.vbproj", "{2CD98F73-0715-4E1E-BDCE-26A06720B125}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Logica", "Logica\Logica.vbproj", "{4B6A1CAD-6B95-4B9F-9C8F-BF9C24245486}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Visual", "Visual\Visual.vbproj", "{2BC4E2A2-7EC6-4270-92C9-7393B9B03C78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,6 +15,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD98F73-0715-4E1E-BDCE-26A06720B125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD98F73-0715-4E1E-BDCE-26A06720B125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD98F73-0715-4E1E-BDCE-26A06720B125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD98F73-0715-4E1E-BDCE-26A06720B125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6A1CAD-6B95-4B9F-9C8F-BF9C24245486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6A1CAD-6B95-4B9F-9C8F-BF9C24245486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6A1CAD-6B95-4B9F-9C8F-BF9C24245486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6A1CAD-6B95-4B9F-9C8F-BF9C24245486}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2BC4E2A2-7EC6-4270-92C9-7393B9B03C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2BC4E2A2-7EC6-4270-92C9-7393B9B03C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BC4E2A2-7EC6-4270-92C9-7393B9B03C78}.Release|Any CPU.ActiveCfg = Release|Any CPU

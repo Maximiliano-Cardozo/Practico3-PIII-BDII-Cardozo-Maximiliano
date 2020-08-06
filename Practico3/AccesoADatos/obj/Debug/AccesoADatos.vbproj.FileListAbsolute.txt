@@ -1,0 +1,9 @@
+C:\Users\Estudio\source\repos\Practico3-PIII-BDII-Cardozo-Maximiliano\Practico3\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\Estudio\source\repos\Practico3-PIII-BDII-Cardozo-Maximiliano\Practico3\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Estudio\source\repos\Practico3-PIII-BDII-Cardozo-Maximiliano\Practico3\AccesoADatos\bin\Debug\AccesoADatos.xml
+C:\Users\Estudio\source\repos\Practico3-PIII-BDII-Cardozo-Maximiliano\Practico3\AccesoADatos\obj\Debug\AccesoADatos.Resources.resources
+C:\Users\Estudio\source\repos\Practico3-PIII-BDII-Cardozo-Maximiliano\Practico3\AccesoADatos\obj\Debug\AccesoADatos.vbproj.GenerateResource.cache
+C:\Users\Estudio\source\repos\Practico3-PIII-BDII-Cardozo-Maximiliano\Practico3\AccesoADatos\obj\Debug\AccesoADatos.vbproj.CoreCompileInputs.cache
+C:\Users\Estudio\source\repos\Practico3-PIII-BDII-Cardozo-Maximiliano\Practico3\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\Estudio\source\repos\Practico3-PIII-BDII-Cardozo-Maximiliano\Practico3\AccesoADatos\obj\Debug\AccesoADatos.xml
+C:\Users\Estudio\source\repos\Practico3-PIII-BDII-Cardozo-Maximiliano\Practico3\AccesoADatos\obj\Debug\AccesoADatos.pdb
